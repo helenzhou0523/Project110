@@ -79,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
-              <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -350,12 +350,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525284345799</updated>
-      <workItem from="1525284349364" duration="1201000" />
+      <workItem from="1525284349364" duration="1438000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="CelsiusTest - 2018.05.02 at 11h 23m 46s.xml">
+      <configuration name="CelsiusTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FahrenheitTest - 2018.05.02 at 11h 23m 53s.xml">
+      <configuration name="FahrenheitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="edu_ucsd_cs110_tests_in_Project110 - 2018.05.02 at 11h 24m 24s.xml">
+      <configuration name="edu.ucsd.cs110.tests in Project110" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1201000" />
+    <option name="totallyTimeSpent" value="1438000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="185" y="23" width="1400" height="915" extended-state="0" />
@@ -465,7 +476,7 @@
     <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
